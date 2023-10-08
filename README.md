@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sjothunj
-- 👀 I’m interested in website development, office app integration
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing in particular at the moment
-- 📫 How to reach me? 
+- 👀 I’m interested in website development to stay familiar with current web technologies
+- 🌱 I’m currently working on learning Python
+- 💞️ I don't currently have an active collaboration project
+- 📫 How to reach me? Email is best
 
 <!---
 sjothunj/sjothunj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
