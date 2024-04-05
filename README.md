@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sjothunj
-- 👀 I’m interested in website development to stay familiar with current web technologies
-- 🌱 I’m currently working on learning Python
+- 👋 Hi, I’m Jon (@sjothunj)
+- 👀 I’m interested IoT, Embedded Systems, Wireless/Radio Networks, Edge Computing, and AI
+- 🌱 I’m currently working on Wearables, IoT for Smart Homes, Generative AI, some Python, and some electronics projects.
 - 💞️ I don't currently have an active collaboration project
 - 📫 How to reach me? Email is best
 
